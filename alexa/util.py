@@ -9,5 +9,4 @@ from . import data
 
 
 def get_random_state(states_list):
-    """Return a random value from the list of states."""
     return random.choice(states_list)
