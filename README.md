@@ -1,12 +1,18 @@
 # Skill_PerguntaBR
 
-## **Carlesandro Gaspar
+## **Autor**:
+Carlesandro Gaspar
 
-## **Proposito:**
+## **Proposito:** 
+Teste seus conhecimentos sobre os estados do BR e suas capitais.
 
-## **Publico alvo:**
+## **Publico alvo:** 
+Simpatizantes de geografia, turistas, professores, alunos
 
-## **Principais Principais funcionalidades (intent) e descrição (valorize intent com uso de recursos externos)
+## **Principais Principais funcionalidades (intent) e descrição**:
 
-## **Mapa da intent
+Responder questionário a respeito dos Estados e capitais do BR
+Composto por 10 perguntas como desafio
+
+## **Mapa da intent**:
 
